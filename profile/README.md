@@ -6,7 +6,7 @@ Welcome to the official GitHub organization for **Voidline**.
 
 ## About Us
 
-We are group of friends who are passionate about coding and minecraft and have come together to start **Voidline!**
+We are a group of highschoolers who are passionate about programming and Minecraft we have become friends through our shared passion and started Voidline!
 
 ---
 
