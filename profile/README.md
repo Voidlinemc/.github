@@ -23,4 +23,4 @@ We are a group of highschoolers who are passionate about programming and Minecra
 ## Connect With Us
 
 * **Website:** [voidline.xyz](https://voidline.xyz)
-* **Ko-fi:** [Support our development efforts and infrastructure costs](https://voidline.xyz)
+* **Ko-fi:** [Support our development efforts and infrastructure costs](https://donate.voidline.xyz)
